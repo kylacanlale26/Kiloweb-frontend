@@ -1,2 +1,2 @@
-# Kiloweb-frontend
+# Kiloweb frontend
 html, css, and js
